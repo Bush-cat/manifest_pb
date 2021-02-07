@@ -32,7 +32,6 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-build">How To build</a> •
   <a href="#credits">Credits</a> •
-  <a href="#support">Support</a> •
   <a href="#license">License</a>
 </p>
 
@@ -98,14 +97,6 @@ This software uses the following open source project(s):
 
 * [TWRP](https://github.com/minimal-manifest-twrp)
 * [PBRP](https://github.com/PitchBlackRecoveryProject)
-
-## Support
-
-Give a ⭐️ if this project helped you!
-
-<a href="https://www.patreon.com/pitchblackrecovery">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
 
 ## License
 
