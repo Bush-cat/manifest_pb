@@ -11,7 +11,7 @@
 
     <!-- TWRP lives in omnirom android-9.0 (not AOSP!) -->
     <remove-project name="platform/bootable/recovery"/>
-    <project path="bootable/recovery" name="android_bootable_recovery" remote="bushcat" revision="android-9.0-rr"/>
+    <project path="bootable/recovery" name="pbrp_android_bootable_recovery" remote="bushcat" revision="android-9.0-rr"/>
     <project path="vendor/pb" name="vendor_pb" remote="PitchBlackRecoveryProject" revision="pb" />
     <project path="vendor/utils" name="vendor_utils" remote="bushcat" revision="pb">
         <linkfile src="pb_build.sh" dest="vendor/pb/pb_build.sh" />
